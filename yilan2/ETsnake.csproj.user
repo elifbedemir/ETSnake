@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AyarlarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HakkindaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RenkAyarlariForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SesAyarlariForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TusAyarlariForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
